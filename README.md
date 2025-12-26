@@ -56,7 +56,7 @@ Here are some ideas for future enhancements:
 
 ## Contributors
 
-- [oxBinaryBrain](https://github.com/0xstackforge) - Project lead and main contributor.
+- [Will](https://github.com/0xstackforge) - Project lead and main contributor.
 
 
 ## Acknowledgements
